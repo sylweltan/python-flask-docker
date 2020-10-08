@@ -1,8 +1,12 @@
 # python-flask-docker
 Basic Python Flask app in Docker which prints the hostname and IP of the container
 
-## Here it is - the hero of our evening. Please welcome "THE BADGE":
-[![Actions Status](https://github.com/muratkars/python-flask-docker/workflows/.github/workflows/dockerpush.yml/badge.svg)
+## Here it is - the hero of our evening. Please welcome "THE BADGE" for MAIN.YML:
+[![Actions Status](https://github.com/muratkars/python-flask-docker/workflows/.github/workflows/main.yml/badge.svg)
+
+
+## welcome also our next friend - the dockerimage.yml 
+[![Actions Status](https://github.com/muratkars/python-flask-docker/workflows/.github/workflows/dockerimage.yml/badge.svg)
 
 
 ### Build application
